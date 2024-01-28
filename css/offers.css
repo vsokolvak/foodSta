@@ -1,0 +1,37 @@
+.offers-container {
+    margin-bottom: 60px;
+}
+
+.offers-title {
+    margin-bottom: 20px;
+}
+
+.offers-text {
+    margin-bottom: 40px;
+}
+
+.input-email {
+    width: 279px;
+    height: 42px;
+    padding: 12px;
+    border-radius: 30px;
+    border: 0.854px solid #FFE550;
+    background: #FFF;
+    margin-bottom: 20px;
+}
+
+.input-email, .input-email::placeholder {
+    color: #505050;
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.offers-btn {
+    padding: 11px 22px;
+    border-radius: 30px;
+    background: #BBF330;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 150%;
+    margin-left: auto;
+}

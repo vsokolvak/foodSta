@@ -1,0 +1,47 @@
+.offerings-container {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    padding-bottom: 132px;
+}
+
+.offerings-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.offerings-item {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.offerings-item-title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offerings-nav {
+    display: flex;
+}
+
+.offerings-nav-button1 {
+    padding: 10px 22px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5;
+    border-radius: 30px;
+    border: 2px solid #7EB101;
+    background: #FFF;
+    margin-right: 24px;
+}
+
+.offerings-nav-button2 {
+    line-height: 1.5;
+    padding: 7px 0;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}

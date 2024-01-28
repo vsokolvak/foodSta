@@ -1,0 +1,30 @@
+.favorits-container {
+    margin-bottom: 120px;
+}
+
+.favorite-title {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.favorite-text {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.favorite-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.favorite-item-href {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    border: 11px solid #FFE550;
+    margin: 0 auto;
+}
